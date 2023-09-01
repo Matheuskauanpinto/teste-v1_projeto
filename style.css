@@ -128,3 +128,11 @@ nav li a:hover{
     color: white;
 }
 
+.n-overlay:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
