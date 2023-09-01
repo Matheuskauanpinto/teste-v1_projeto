@@ -63,7 +63,6 @@ nav li a:hover{
 }
 .texto .botoes{
     margin-top: 30px;
-    text-decoration: none;
 
 }
 .texto .botoes button{
@@ -84,20 +83,17 @@ nav li a:hover{
     color: white;
     background: none;
     border: 2px solid white;
-    text-decoration: none;
 
 }
 .texto .botoes button.n-overlay:hover{
     color: black;
     background-color: white;
-    text-decoration: none;
 
 }
 .texto .botoes button.overlay{
     background: white;
     color: black;
     animation: vibrar 0.8s ease-in-out infinite both;
-    text-decoration: none;
 
     
 }
