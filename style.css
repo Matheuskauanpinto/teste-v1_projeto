@@ -63,6 +63,8 @@ nav li a:hover{
 }
 .texto .botoes{
     margin-top: 30px;
+    text-decoration: none;
+
 }
 .texto .botoes button{
     height: 55px;
@@ -76,8 +78,7 @@ nav li a:hover{
     cursor: pointer;
     outline: none;
     transition: 0.3s;
-    text-decoration: none;
-
+    
 }
 .texto .botoes button.n-overlay{
     color: white;
