@@ -129,8 +129,9 @@ nav li a:hover{
 
 .n-overlay {
     display: inline-block;
-    background-color: white;
-    color: black;
+    color: white;
+    background: none;
+    border: 2px solid white;
     border: none;
     padding: 10px 20px;
     font-size: 18px;
