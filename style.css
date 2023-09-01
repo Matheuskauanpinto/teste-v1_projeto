@@ -63,7 +63,6 @@ nav li a:hover{
 }
 .texto .botoes{
     margin-top: 30px;
-
 }
 .texto .botoes button{
     height: 55px;
@@ -77,25 +76,20 @@ nav li a:hover{
     cursor: pointer;
     outline: none;
     transition: 0.3s;
-    
 }
 .texto .botoes button.n-overlay{
-    color: rgb(236, 0, 0);
+    color: white;
     background: none;
     border: 2px solid white;
-
 }
 .texto .botoes button.n-overlay:hover{
     color: black;
-    background-color: rgb(250, 4, 4);
-
+    background-color: white;
 }
 .texto .botoes button.overlay{
-    background: rgb(255, 0, 0);
+    background: white;
     color: black;
     animation: vibrar 0.8s ease-in-out infinite both;
-
-    
 }
 @keyframes vibrar {
     0%{
@@ -124,25 +118,5 @@ nav li a:hover{
 
 .overlay-button:hover {
     background-color: black;
-    color: rgb(255, 0, 0);
-}
-
-.n-overlay {
-    display: inline-block;
-    color: rgb(255, 0, 0);
-    background: none;
-    border: 2px solid white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 18px;
-    font-weight: 500;
-    border-radius: 5px;
-    text-decoration: none;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.n-overlay:hover {
-    color: black;
-    background-color: white;
-
+    color: white;
 }
