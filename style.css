@@ -129,7 +129,7 @@ nav li a:hover{
 
 .n-overlay {
     display: inline-block;
-    color: white;
+    color: rgb(255, 0, 0);
     background: none;
     border: 2px solid white;
     border: none;
