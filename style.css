@@ -92,6 +92,9 @@ nav li a:hover{
     background: white;
     color: black;
     animation: vibrar 0.8s ease-in-out infinite both;
+    text-decoration: none;
+
+    
 }
 @keyframes vibrar {
     0%{
