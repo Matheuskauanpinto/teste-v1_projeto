@@ -81,6 +81,8 @@ nav li a:hover{
     color: white;
     background: none;
     border: 2px solid white;
+    text-decoration: none;
+
 }
 .texto .botoes button.n-overlay:hover{
     color: black;
