@@ -76,6 +76,8 @@ nav li a:hover{
     cursor: pointer;
     outline: none;
     transition: 0.3s;
+    text-decoration: none;
+
 }
 .texto .botoes button.n-overlay{
     color: white;
